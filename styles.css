@@ -1,0 +1,42 @@
+body{
+    background-color: cornsilk;
+}
+
+
+.Title{
+    text-align:center;
+    color:coral;
+}
+
+h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    color: coral;
+}
+
+table, th, td, tr{
+    text-align:center;
+    border: 5px thin blue;
+    margin:0 550px;
+    font-family: Arial, sans-serif;
+
+}
+
+th, td{
+    padding:15px;
+}
+
+th {
+    background-color: cornflowerblue;
+}
+
+table{
+    width:40%;
+}
+
+
+.Code {
+    font-family: monospace;
+    background-color: cornflowerblue;
+}
+
